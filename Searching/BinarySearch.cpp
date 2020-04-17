@@ -41,7 +41,7 @@ int main()
     // l v[n];
     // for(auto &i:v)  cin>>i;      // Input of unsorted array
     // cin>>x;          //Element to be searched 
-    // sort(v.begin(),v.end());     // Sort Using STL to make the array usable with binary search
+    // sort(v,v+n);     // Sort Using STL to make the array usable with binary search
 
     // // STL for BinarySearch---
     // binary_search(ar,ar+n,x) ? cout<<"Element Found" : cout<<"Element Not found";  // This works in arrays only
