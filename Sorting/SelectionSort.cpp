@@ -1,5 +1,5 @@
 //                          SELECTION SORT
-//                  Sorts an array/vector in O(n) Time...
+//                  Sorts an array/vector in O(n*n) Time...
 
 #include<bits/stdc++.h>
 
