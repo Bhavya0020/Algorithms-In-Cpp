@@ -16,7 +16,7 @@ void CountingSort(vl &ar)
         max_=max(i,max_);
     }
     vl map_(max_+1,0) ;
-    
+    // map_ is the frequency counting array
     for(l i=0;i<ar.size();i++)
     {
         map_[ar[i]]++;
